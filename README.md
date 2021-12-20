@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kimi
-- 👀 Web Developement: Frontend Design and Build with Angular or similars
+- 👀 Web Developement: Frontend Design and Build with Angular and similar Frameworks
 - 🌱 Currently studying
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Reach me via Email
